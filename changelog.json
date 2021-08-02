@@ -1,0 +1,9 @@
+{
+  "changelog":
+  [
+    {
+      "enabled":"true",
+      "whitelist_only":"false",
+      "info":"16.7"
+    }
+  ]
