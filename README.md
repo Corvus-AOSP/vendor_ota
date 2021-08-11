@@ -1,1 +1,1 @@
-To serve OTA to all the devices instantly
+To serve OTA to all the devices instantly 
