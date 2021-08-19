@@ -1,12 +1,12 @@
 {
-  "codename":"beryllium",
-  "name":"POCO F1",
-  "version_codename":"Avalon",
-  "version":"16.8",
-  "maintainer":"RoXoR07",
-  "size":1010812243,
-  "datetime":1629379349,
-  "filehash":"ba7d475d3cf96d0c959294953bb46f4a",
-  "url":"https://www.pling.com/p/1372060",
-  "group":"https://telegram.dog/corvusberyllium",
+	"codename": "beryllium",
+	"name": "POCO F1",
+	"version_codename": "Avalon",
+	"version": "16.8",
+	"maintainer": "RoXoR07",
+	"size": 1010812243,
+	"datetime": 1629379349,
+	"filehash": "ba7d475d3cf96d0c959294953bb46f4a",
+	"url": "https://www.pling.com/p/1372060",
+	"group": "https://telegram.dog/corvusberyllium"
 }
