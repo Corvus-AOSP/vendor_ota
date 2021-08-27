@@ -1,12 +1,16 @@
 {
-	"codename": "TEST4",
-	"name": "SPACING CAPS TEST",
-	"version_codename": "TEST",
-	"version": "TEST",
-	"maintainer": "TEST",
-	"size": 1773673173,
-	"datetime": 1628776531,
-	"filehash": "2cdb88d2fb04b8438bf23e519cbd290b",
-	"url": "https://www.pling.com/p/1371991",
-	"group": "https://t.me/corvusraphael"
+  "codename":"Test",
+  "name":"Test",
+  "version_codename":"Test",
+  "version":"Test",
+  "maintainer":"Test",
+  "size":"Test",
+  "datetime":"Test",
+  "filehash":"Test",
+  "url":"Test",
+  "ota_vanilla":"Test",
+  "ota_gapps":"Test",
+  "group": "Test",
+  "support_url": "Test",
+  "download_url": "Test"
 }
