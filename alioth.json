@@ -1,9 +1,9 @@
 {
   "codename":"Alioth",
-  "name":"Xiaomi Poco F3 / Xiaomi Mi 11X / Redmi K40",
+  "name":"Poco F3,Mi 11X,Redmi K40",
   "version_codename":"Avalon",
   "version":"16.8",
-  "maintainer":"sukeeratsg",
+  "maintainer":"irongfly",
   "size":825367566,
   "datetime":1630190033,
   "filehash":"c558926f296da1f1318f08343cf6c58e",
